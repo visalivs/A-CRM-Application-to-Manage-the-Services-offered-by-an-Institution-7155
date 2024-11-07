@@ -1,10 +1,7 @@
 # CRM Application to Manage the Services Offered by an Institution
 
-## College Information:
 - **College Name**: PSG Institute of Technology and Applied Research
 - **College Code**: 7155
-
-## Team Information:
 - **Team ID**: NM2024TMID00683
 - **Team Lead**: Sarvesh S M (62A3A318B92E46184814F45BBA0F1DC1)
 
